@@ -19,7 +19,7 @@ cryptography==2.0.3
 cycler==0.10.0
 Cython==0.29.6
 dask==0.20.2
-dataclasses==0.8
+dataclasses==0.6
 decorator==4.3.0
 docutils==0.14
 easydict==1.8
